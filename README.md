@@ -21,7 +21,7 @@ La aplicación esta construida en **React** para el front-end, el cuál realiza 
 Una vez clonado el proyecto, debemos movernos a la carpeta raiz, ejecutando el siguiente comando:
 
 ```sh
-$ cd tickets
+$ cd test-toolbox-frontend
 ```
 
 Luego necesitamos ejecutar el siguiente comando para instalar todas las librerias necesarias:
